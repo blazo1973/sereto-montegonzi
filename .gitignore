@@ -1,0 +1,10 @@
+/config/a2kTimeDeploy.class.php
+/data/sql/*
+/log/*
+/cache/*
+/nbproject
+/cache/project_autoload.cache
+/web/uploads/*
+/web/ver.txt
+.idea
+/lib/vendor/*
